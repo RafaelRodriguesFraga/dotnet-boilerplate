@@ -1,0 +1,17 @@
+.idea/.idea.dotnet-boilerplate/.idea/.gitignore
+.idea/.idea.dotnet-boilerplate/.idea/encodings.xml
+.idea/.idea.dotnet-boilerplate/.idea/indexLayout.xml
+DotnetBoilerplate.Api/bin/
+DotnetBoilerplate.Api/obj/
+DotnetBoilerplate.Application/bin/
+DotnetBoilerplate.Application/obj/
+DotnetBoilerplate.Domain/bin/
+DotnetBoilerplate.Domain/obj/
+DotnetBoilerplate.Infra/bin/
+DotnetBoilerplate.Infra/obj/
+DotnetBoilerplate.Infra.CrossCutting/bin/
+DotnetBoilerplate.Infra.CrossCutting/obj/
+DotnetBoilerplate.Shared/bin/
+DotnetBoilerplate.Shared/obj/
+DotnetBoilerplate.Tests/bin/
+DotnetBoilerplate.Tests/obj/
