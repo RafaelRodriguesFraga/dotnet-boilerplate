@@ -12,13 +12,13 @@ Este repositório serve como um **template reutilizável para aplicações em .N
 ## 📁 Estrutura do Projeto
 
 ```plaintext
-├── DotnetBoilerplate.Api/               # Camada de apresentação (Presentation)
-├── DotnetBoilerplate.Application/       # Casos de uso, interfaces, DTOs
-├── DotnetBoilerplate.Domain/            # Entidades e regras de negócio
-├── DotnetBoilerplate.Infra/             # Infraestrutura (implementações)
-├── DotnetBoilerplate.Infra.CrossCutting/# Middlewares, logging, configs, etc
-├── DotnetBoilerplate.Infra.Shared/      # Utilitários e contratos comuns
-├── DotnetBoilerplate.Infra.Tests/       # Testes automatizados (xUnit)
+├── DotnetBoilerplate.Api/                # Camada de apresentação (Presentation)
+├── DotnetBoilerplate.Application/        # Casos de uso, interfaces, DTOs
+├── DotnetBoilerplate.Domain/             # Entidades e regras de negócio
+├── DotnetBoilerplate.Infra/              # Infraestrutura (implementações)
+├── DotnetBoilerplate.Infra.CrossCutting/ # Middlewares, logging, configs, etc
+├── DotnetBoilerplate.Infra.Shared/       # Utilitários e contratos comuns
+├── DotnetBoilerplate.Infra.Tests/        # Testes automatizados (xUnit)
 ```
 ---
 

@@ -11,13 +11,13 @@ This repository serves as a reusable template for .NET applications, with layere
 ## 📁 Project Structure
 
 ```plaintext
-├── DotnetBoilerplate.Api/               # Presentation layer
-├── DotnetBoilerplate.Application/       # Use cases, interfaces, DTOs
-├── DotnetBoilerplate.Domain/            # Business entities and rules
-├── DotnetBoilerplate.Infra/             # Infrastructure (implementations)
-├── DotnetBoilerplate.Infra.CrossCutting/# Middlewares, logging, configs, etc
-├── DotnetBoilerplate.Infra.Shared/      # Common utilities and contracts  
-├── DotnetBoilerplate.Infra.Tests/       # Automated tests (xUnit)
+├── DotnetBoilerplate.Api/                # Presentation layer
+├── DotnetBoilerplate.Application/        # Use cases, interfaces, DTOs
+├── DotnetBoilerplate.Domain/             # Business entities and rules
+├── DotnetBoilerplate.Infra/              # Infrastructure (implementations)
+├── DotnetBoilerplate.Infra.CrossCutting/ # Middlewares, logging, configs, etc
+├── DotnetBoilerplate.Infra.Shared/       # Common utilities and contracts  
+├── DotnetBoilerplate.Infra.Tests/        # Automated tests (xUnit)
 ```
 
 --- 
@@ -25,7 +25,7 @@ This repository serves as a reusable template for .NET applications, with layere
 
 ## 🔧 How to use
 
-1. Click Use this template at the top right
+1. Click `Use this template` at the top right
 2. Rename your repository
 3. Clone:
 
@@ -54,4 +54,4 @@ Access at:
 
 <br>
 
-##### Feito com ❤️ por Rafael Fraga
+##### Made with ❤️ by Rafael Fraga
